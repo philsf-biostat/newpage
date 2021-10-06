@@ -1,15 +1,17 @@
 ---
 permalink: /consulting/
-title: "Consultoria & Serviços"
+title: "FF Consultoria em Bioestatística e Epidemiologia"
 excerpt: ""
 author_profile: true
 ---
 
 ## Experiência de consultorias
 
-Tenho feito consultorias para clientes particulares há 6 anos.
+Seus dados tem mensagens para você, mas você entende a língua dos dados?
+Eu ajudo as pessoas a entender seus dados há mais de 6 anos.
+Traduzo as mensagens que os dados tem para seus detentores, e escrevo relatórios na linguagem do usuário, seja biólogo ou profissional da saúde.
 
-## Serviços
+## Como posso te ajudar?
 
 Consultorias em Estatística Médica e Epidemiologia Clínica.
 
