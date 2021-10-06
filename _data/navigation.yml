@@ -3,11 +3,11 @@ main:
   - title: "Sobre"
     url: /    
 
-  - title: "Ensino"
-    url: /teaching/    
-    
   - title: "Consultoria"
     url: /consulting/
+
+  - title: "Ensino"
+    url: /teaching/
 
   # - title: "Portfolio"
   #   url: /portfolio/
