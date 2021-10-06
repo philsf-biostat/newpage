@@ -3,9 +3,6 @@ permalink: /consulting/
 title: "Consultoria & Serviços"
 excerpt: ""
 author_profile: true
-redirect_from: 
-  - /consulting/
-  - /consulting.html
 ---
 
 ## Experiência de consultorias
