@@ -15,8 +15,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Palestras"
-    url: /talks/    
+  # - title: "Palestras"
+  #   url: /talks/    
 
-  - title: "Publicações"
-    url: /publications/
+  # - title: "Publicações"
+  #   url: /publications/
