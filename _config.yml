@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "FF Consultoria em Bioestatística e Epidemiologia"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Felipe Figueiredo"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Bioestatístico com experiência em Epidemiologia Clínica, sou fluente em técnicas de estatística aplicada, modelagem matemática e simulações e modelos computacionais complexos."
   location         : # "Location"
   employer         : "FF Consultoria em Bioestatística e Epidemiologia"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "philsf-biostat"
   google_plus      :
   keybase          :
   instagram        : "ff.epi.biostat"
