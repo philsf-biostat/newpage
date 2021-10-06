@@ -83,7 +83,7 @@ author:
   name             : "Felipe Figueiredo"
   avatar           : "profile.png"
   bio              : "Bioestatístico com experiência em Epidemiologia Clínica, sou fluente em técnicas de estatística aplicada, modelagem matemática e simulações e modelos computacionais complexos."
-  location         : "Rio de Janeiro, Brazil"
+  location         :
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
