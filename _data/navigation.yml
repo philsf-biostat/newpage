@@ -9,8 +9,8 @@ main:
   - title: "Consultoria"
     url: /consulting/
 
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
   - title: "CV"
     url: /cv/
