@@ -31,6 +31,12 @@ Envie um e-mail para [prof.felipefigueiredo@gmail.com](mailto:prof.felipefigueir
 
 ## Portfolio
 
+Relatórios destacados:
+
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
+
+Você também pode consultar a [listagem completa de trabalhos realizados][].
+
+[listagem completa de trabalhos realizados]: portfolio.md
