@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Sobre"
-    url: /about/    
+    url: /    
 
   - title: "Cursos & Treinamento"
     url: /teaching/    
@@ -20,6 +20,3 @@ main:
 
   - title: "Publicações"
     url: /publications/
-
-  - title: "Contato"
-    url: /contact/
