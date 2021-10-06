@@ -1,7 +1,7 @@
 ---
 permalink: /consulting/
-title: "FF Consultoria em Bioestatística e Epidemiologia"
-excerpt: "About me"
+title: "Consultoria & Serviços"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /consulting/

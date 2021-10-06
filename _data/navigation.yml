@@ -6,7 +6,7 @@ main:
   - title: "Cursos & Treinamento"
     url: /teaching/    
     
-  - title: "Consultoria & Serviços"
+  - title: "Consultoria"
     url: /consulting/
 
   - title: "Portfolio"
@@ -18,7 +18,7 @@ main:
   - title: "Palestras"
     url: /talks/    
 
-  - title: "Publications"
+  - title: "Publicações"
     url: /publications/
 
   - title: "Contato"
