@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "FF Consultoria em Bioestatística e Epidemiologia"
+title                    : "Consultorias em Bioestatística"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
