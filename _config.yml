@@ -9,7 +9,7 @@
 locale                   : "pt-BR"
 title                    : # "Consultorias em Bioestatística"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Felipe Figueiredo"
 description              : &description "personal description"
 url                      : https://philsf-biostat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/newpage" # the subpath of your site, e.g. "/blog"
