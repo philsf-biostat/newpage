@@ -26,5 +26,5 @@ Consultorias em Estatística Médica e Epidemiologia Clínica.
 
 ## Contato
 
-Quer saber mais sobre como posso te ajudar a entender os seus números?
+Quer saber mais sobre como posso te ajudar a entender os seus dados?
 Envie um e-mail para [prof.felipefigueiredo@gmail.com](mailto:prof.felipefigueiredo@gmail.com) e inclua a palavra _Consultoria_ no assunto.
