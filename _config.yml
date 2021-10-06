@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "philsf-biostat"
+  github           : # "philsf-biostat"
   google_plus      :
   keybase          :
   instagram        : "ff.epi.biostat"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "philsf79"
+  twitter          : # "philsf79"
   vine             :
   weibo            :
   xing             :
