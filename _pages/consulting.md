@@ -29,9 +29,9 @@ Consultorias em Estatística Médica e Epidemiologia Clínica.
 Quer saber mais sobre como posso te ajudar a entender os seus dados?
 Envie um e-mail para [prof.felipefigueiredo@gmail.com](mailto:prof.felipefigueiredo@gmail.com) e inclua a palavra _Consultoria_ no assunto.
 
-## Portfolio
+## O que eu já fiz
 
-Relatórios destacados:
+Estes são alguns relatórios recentes destacados:
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
