@@ -6,6 +6,6 @@ author_profile: true
 redirect_from:
   - /
 ---
-# Consultorias em Epidemiologia Clínica e Estatística Médica
+## Consultorias em Epidemiologia Clínica e Estatística Médica
 
 *Ajudo pessoas a entender números.*
