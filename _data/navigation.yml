@@ -1,7 +1,10 @@
 # main links links
 main:
+  - title: "Home"
+    url: /
+
   - title: "Sobre"
-    url: /    
+    url: /about/
 
   - title: "Consultoria"
     url: /consulting/
@@ -12,8 +15,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "Palestras"
   #   url: /talks/    

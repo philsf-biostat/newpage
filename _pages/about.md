@@ -1,6 +1,6 @@
 ---
-permalink: /
-title: "FF Consultoria em Bioestatística e Epidemiologia"
+permalink: /about/
+title: "Sobre mim"
 excerpt: "Sobre"
 author_profile: true
 redirect_from: 
