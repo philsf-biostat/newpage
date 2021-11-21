@@ -1,7 +1,10 @@
 # main links links
 main:
+  - title: "Home"
+    url: /
+
   - title: "Sobre"
-    url: /    
+    url: /about/
 
   - title: "Consultoria"
     url: /consulting/
