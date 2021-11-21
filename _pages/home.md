@@ -9,5 +9,5 @@ redirect_from:
 ## Consultorias em Epidemiologia Clínica e Estatística Médica
 
 <center>
-**_Ajudo pessoas a entender números._**
+**Ajudo pessoas a entender números.**
 </center>
