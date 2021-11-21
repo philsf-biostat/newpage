@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /home/
 title: "FF Consultoria em Bioestatística e Epidemiologia"
 excerpt: "Home"
 author_profile: true
