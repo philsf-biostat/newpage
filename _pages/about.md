@@ -4,7 +4,7 @@ title: "Sobre mim"
 excerpt: "Sobre"
 author_profile: true
 redirect_from: 
-  - /about/
+  #- /about/
   - /about.html
 ---
 
