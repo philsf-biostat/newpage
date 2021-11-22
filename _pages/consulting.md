@@ -7,13 +7,13 @@ author_profile: true
 
 ## Experiência de consultorias
 
-Seus dados tem mensagens para você, mas você entende a língua dos dados?
-Eu ajudo as pessoas a entender seus dados há mais de 6 anos.
-Traduzo as mensagens que os dados tem para seus detentores, e escrevo relatórios na linguagem do usuário, seja biólogo ou profissional da saúde.
+Seus dados têm mensagens para você e eu sou fluente nessa língua.
+Ajudo as pessoas a entender seus dados há mais de 6 anos.
+Traduzo as mensagens que os dados têm para seus detentores e escrevo relatórios na linguagem do usuário, seja biólogo ou profissional da saúde.
 
 ## Como posso te ajudar?
 
-Consultorias em Estatística Médica e Epidemiologia Clínica.
+Me especializo na área da Saúde e já atuei em dezenas de projetos consultando sobre aspectos metodológicos.
 
 - Delineamento de estudos, cálculo amostral e protocolo de estudo
 - Metodologias para estudos observacionais e ensaios clínicos
