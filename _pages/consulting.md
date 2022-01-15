@@ -33,7 +33,7 @@ Envie um e-mail para [prof.felipefigueiredo@gmail.com](mailto:prof.felipefigueir
 
 Estes são alguns relatórios recentes destacados:
 
-{% for post in site.portfolio %}
+{% for post in site.posts %}
   {% include archive-single.html %}
 {% endfor %}
 
