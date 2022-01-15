@@ -39,4 +39,4 @@ Estes são alguns relatórios recentes destacados:
 
 Você também pode consultar a [listagem completa de trabalhos realizados][].
 
-[listagem completa de trabalhos realizados]: /portfolio/portfolio.md
+[listagem completa de trabalhos realizados]: /portfolio/full

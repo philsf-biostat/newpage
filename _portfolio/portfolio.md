@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Portfolio"
+permalink: /portfolio/full
+author_profile: true
+---
+
 # FF Consultoria em Bioestatística e Epidemiologia
 
 ## Serviços
