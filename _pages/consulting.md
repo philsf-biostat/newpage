@@ -31,12 +31,30 @@ Envie um e-mail para [prof.felipefigueiredo@gmail.com](mailto:prof.felipefigueir
 
 ## O que eu já fiz
 
-Estes são alguns relatórios recentes destacados:
+Já contribuí com avaliações epidemiológicas em projetos de diversas características:
 
-{% for post in site.posts.tags %}
-  {% include archive-single.html %}
-{% endfor %}
+Desenhos de estudo:
 
-Você também pode consultar a [listagem completa de trabalhos realizados][].
+- transversal
+- coorte / coorte retrospectiva
+- caso-controle
+<!-- - revisão sistemática -->
+
+Tipos de estudo:
+
+- prevalência
+- incidência
+- diagnóstico
+- prognóstico / tempo-até-evento / análise de sobrevida
+- bioensaios
+- concordância / comparação de métodos
+
+<!-- Estes são alguns relatórios recentes destacados: -->
+
+<!-- {% for post in site.posts.tags %} -->
+<!--   {% include archive-single.html %} -->
+<!-- {% endfor %} -->
+
+<!-- Você também pode consultar a [listagem completa de trabalhos realizados][]. -->
 
 [listagem completa de trabalhos realizados]: ../portfolio/full
