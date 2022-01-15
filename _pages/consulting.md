@@ -33,10 +33,10 @@ Envie um e-mail para [prof.felipefigueiredo@gmail.com](mailto:prof.felipefigueir
 
 Estes são alguns relatórios recentes destacados:
 
-{% for post in site.posts %}
+{% for post in site.tags %}
   {% include archive-single.html %}
 {% endfor %}
 
 Você também pode consultar a [listagem completa de trabalhos realizados][].
 
-[listagem completa de trabalhos realizados]: /portfolio/full
+[listagem completa de trabalhos realizados]: portfolio/full
