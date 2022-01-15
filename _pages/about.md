@@ -13,7 +13,7 @@ Fique à vontade, enquanto eu passo um cafezinho.
 
 Já colaborei em vários projetos em Saúde Pública, Assistencial e Indústria Farmacêutica, incluindo delineamento e protocolos.
 
-Há mais de sete anos ajudo pessoas a perder o medo de Matemática e Estatística em salas de aula, projetos ou coffee-breaks.
+Desde 2013 ajudo pessoas a perder o medo de Matemática e Estatística em salas de aula, projetos ou coffee-breaks.
 
 Se quiser bater um papo sobre dados, tecnologia ou outros assuntos, [me chama no Linkedin](https://www.linkedin.com/in/philsf/), ou me manda [um e-mail](mailto:prof.felipefigueiredo@gmail.com).
 
