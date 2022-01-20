@@ -16,7 +16,7 @@ Me especializo na área da Saúde e já atuei em dezenas de projetos consultando
 
 ## Como posso te ajudar?
 
-A **FF Consultoria em Bioestatística e Epidemiologia** pode oferecer soluções completas para projetos de pesquisa saúde, pequenos ou grandes.
+A **FF Consultoria em Bioestatística e Epidemiologia** oferece soluções completas para projetos de pesquisa saúde, desde TCCs a grandes projetos institucionais.
 Iniciamos com uma avaliação epidemiológica do seu problema e criaremos  uma proposta formal sob medida para seu estudo de acordo com tipo, desenho e perguntas de pesquisa.
 
 - Delineamento de estudos, cálculo amostral e protocolo de estudo
@@ -29,6 +29,7 @@ Iniciamos com uma avaliação epidemiológica do seu problema e criaremos  uma p
 - Programação Estatística de Tabelas, Listagens e Figuras (TLF)
 - Desenvolvimento de software na linguagem R
 
+Além de consultorias particulares tenho oferecido meus serviços na plataforma [Fiverr][fiverr-catalogo] que me agraciou como prestador de serviços especial na categoria [**Fiverr Pro**][fiverr-pro].
 Você pode consultar o meu [catálogo de serviços na Fiverr (listados em USD)][fiverr-catalogo].
 
 ## Contato
