@@ -19,8 +19,7 @@ Já colaborei em vários projetos em Saúde Pública, Assistencial e Indústria 
 
 Como consultor eu auxilio pesquisadores a obter sucesso em publicações científicas e defesas de Mestrado e Doutorado.
 Em 2021 formalizei a abertura de uma empresa de consultoria para profissionalizar os serviços que presto tempos para particulares, cujo nome e CNPJ agora adorna a máscara de relatórios que entrego aos meus clientes.
-Além de consultorias particulares tenho oferecido meus serviços na plataforma [Fiverr][fiverr-catalogo].
-Esta plataforma me agraciou como prestador de serviços especial na categoria [**Fiverr Pro**][fiverr-pro].
+Além de consultorias particulares tenho oferecido meus serviços na plataforma [Fiverr][fiverr-catalogo] que me agraciou como prestador de serviços especial na categoria [**Fiverr Pro**][fiverr-pro].
 [Meu catálogo de serviços na Fiverr (listados em USD) pode ser visto aqui.][fiverr-catalogo]
 
 Como metodologista na elaboração de protocolos de estudos clínicos e análise de dados em Saúde Pública, Pesquisa em Saúde Assistencial e P&D na indústria farmacêutica.
