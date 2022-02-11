@@ -55,6 +55,7 @@ Tipos de estudo:
 - [incidência][incidence]
 - [diagnóstico][diagnostic-models]
 - [prognóstico][prognostic-models] / [tempo-até-evento / análise de sobrevida][survival-analysis]
+- [survey][survey]
 - [bioensaios][bioassay]
 - [concordância / comparação de métodos][concordance-analysis]
 - [imputação de dados faltantes / imputação múltipla][missing-data-imputation]
@@ -90,3 +91,4 @@ Você também pode consultar a [listagem completa de trabalhos realizados][].
 [bioassay]: /categories/#bioassay
 [concordance-analysis]: /tags/#concordance-analysis
 [missing-data-imputation]: /tags/missing-data-imputation
+[survey]: /tags/survey
