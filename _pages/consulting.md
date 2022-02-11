@@ -57,6 +57,7 @@ Tipos de estudo:
 - [prognóstico][prognostic-models] / [tempo-até-evento / análise de sobrevida][survival-analysis]
 - [bioensaios][bioassay]
 - [concordância / comparação de métodos][concordance-analysis]
+- [imputação de dados faltantes / imputação múltipla][missing-data-imputation]
 <!-- - [meta-análise][meta-analysis] -->
 
 <!-- Estes são alguns relatórios recentes destacados: -->
@@ -88,3 +89,4 @@ Você também pode consultar a [listagem completa de trabalhos realizados][].
 [meta-analysis]: /tags/#meta-analysis
 [bioassay]: /categories/#bioassay
 [concordance-analysis]: /tags/#concordance-analysis
+[missing-data-imputation]: /tags/missing-data-imputation
